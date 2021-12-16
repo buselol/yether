@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31729.503
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "yether", "yether\yether.csproj", "{32334857-565F-47FD-A4A1-BAA40D1111BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32334857-565F-47FD-A4A1-BAA40D1111BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32334857-565F-47FD-A4A1-BAA40D1111BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32334857-565F-47FD-A4A1-BAA40D1111BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32334857-565F-47FD-A4A1-BAA40D1111BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDDC117-CA52-4F99-BB0F-6E3E66AA4CF0}
+	EndGlobalSection
+EndGlobal
